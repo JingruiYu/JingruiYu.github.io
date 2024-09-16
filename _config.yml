@@ -1,6 +1,6 @@
 # Site
-repository: sproogen/resume-theme
-favicon: images/favicon.ico
+# repository: sproogen/resume-theme
+# favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
@@ -13,19 +13,20 @@ title: 3D Vision Researcher
 darkmode: false
 
 # Social links
-github_username:  JingruiYu
+github_username: JingruiYu
+linkedin_username: jingrui-yu-a5191b253
 orcid_username: 0000-0001-5544-6155
 
 
 # Additional icon links
 additional_links:
 - title: google_scholar
-  icon: fab fa-google-scholar
+  icon: fas fa-globe
   url: https://scholar.google.com/citations?user=7BqTTmgAAAAJ&hl=en
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/my.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, I'm Jingrui Yu, a researcher and engineer with expertise in 3D vision. Focuses on overcoming challenges in perception and planning for autonomous vehicles and intelligent robots by developing high-quality data-driven models. The ultimate goal is to harness machine intelligence to enhance daily life and industrial production, allowing people to enjoy more leisure time and savor a cup of milk coffee at three in the afternoon.
 

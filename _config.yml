@@ -18,11 +18,11 @@ linkedin_username: jingrui-yu-a5191b253
 orcid_username: 0000-0001-5544-6155
 
 
-# Additional icon links
-additional_links:
-- title: google_scholar
-  icon: fas fa-globe
-  url: https://scholar.google.com/citations?user=7BqTTmgAAAAJ&hl=en
+# # Additional icon links
+# additional_links:
+# - title: google_scholar
+#   icon: fas fa-globe
+#   url: https://scholar.google.com/citations?user=7BqTTmgAAAAJ&hl=en
 
 # About Section
 # about_title: About Me

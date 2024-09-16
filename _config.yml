@@ -28,7 +28,9 @@ orcid_username: 0000-0001-5544-6155
 # about_title: About Me
 about_profile_image: images/my.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm Jingrui Yu, a researcher and engineer with expertise in 3D vision. Focuses on overcoming challenges in perception and planning for autonomous vehicles and intelligent robots by developing high-quality data-driven models. The ultimate goal is to harness machine intelligence to enhance daily life and industrial production, allowing people to enjoy more leisure time and savor a cup of milk coffee at three in the afternoon.
+  Hi, I'm Jingrui Yu, a researcher and engineer with expertise in 3D vision. Focuses on overcoming challenges in perception and planning for autonomous vehicles and intelligent robots by developing high-quality data-driven models. 
+
+  Machine intelligence enhance daily life and industrial production, allowing people to enjoy more leisure time and savor a cup of milk coffee at three in the afternoon.
 
 content:
   # - title: Projects # Title for the section
